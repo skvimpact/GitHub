@@ -20,7 +20,9 @@ namespace ConsoleApplication1
             Console.WriteLine("SDDDDDDDD");
             Console.WriteLine("SDDDDDDDD");
             Console.WriteLine("SDDDDDDDD");
-
+            Console.WriteLine("ZZZ");
+            Console.WriteLine("ZZZ");
+            Console.WriteLine("ZZZ");
             Console.ReadKey();
         }
     }
