@@ -13,6 +13,14 @@ namespace ConsoleApplication1
             Console.WriteLine("SD");
             Console.WriteLine("SDD");
             Console.WriteLine("SDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+            Console.WriteLine("SDDDDDDDD");
+
             Console.ReadKey();
         }
     }
